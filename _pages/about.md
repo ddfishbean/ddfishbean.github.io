@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year graduate student focusing on understanding how the hypothalamus changes in brain aging and Alzheimer's disease at single-cell resolution. I work with [Prof. Ashley Webb at the Buck Institute for Research on Aging](https://www.buckinstitute.org/lab/webb-lab/), previously at [Brown University](https://aging.brown.edu/). I received my Bachelor's degree in Biology from [Zhiyuan Honors' Program at SJTU](https://en.zhiyuan.sjtu.edu.cn/), and Master's degree in Data Science through [Brown's Open Graduate Education](https://graduateschool.brown.edu/academics-research/distinctive-opportunities/open-graduate-education). I am currently supported by the NIH/NIA F99 fellowship.
+I am a sixth year graduate student focusing on understanding how the hypothalamus changes in brain aging and Alzheimer's disease at single-cell resolution. I work with [Prof. Ashley Webb at the Buck Institute for Research on Aging](https://www.buckinstitute.org/lab/webb-lab/), previously at [Brown University](https://aging.brown.edu/). I received my Bachelor's degree in Biology from [Zhiyuan Honor's Program at SJTU](https://en.zhiyuan.sjtu.edu.cn/), and Master's degree in Data Science through [Brown's Open Graduate Education](https://graduateschool.brown.edu/academics-research/distinctive-opportunities/open-graduate-education). I am currently supported by the NIH/NIA F99 fellowship.
 
 Selected Publications
 ======
