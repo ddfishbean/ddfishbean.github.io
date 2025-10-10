@@ -13,7 +13,7 @@ I am a postdoctoral researcher interested in understanding biology of aging with
 Preprints
 ======
 1. **HypoAD: volumetric and single-cell analysis reveals changes in the human hypothalamus in aging and Alzheimer's disease** [[Paper]](https://www.biorxiv.org/content/10.1101/2025.10.08.681270v1)
-<br> <u>Doudou Yu</u>, Jurgen Germann, [Ghulam Murtaza]([https://rsinghlab.org/](https://gmurtaza404.github.io/)), Kaitlyn H Hajdarovic, Kelsey R Babcock, Shiva Kazempour Dehkordi, Alexander C Jackson, Ivana Delalle, Miranda E Orr, Habil Zare, Ritambhara Singh, William Stafford Noble, [Andrei G Vlassenko](https://www.mir.wustl.edu/employees/andrei-vlassenko/), [Manu S Goyal](https://www.mir.wustl.edu/employees/manu-goyal/), and Ashley E Webb
+<br> <u>Doudou Yu</u>, Jurgen Germann, [Ghulam Murtaza](https://gmurtaza404.github.io/)), Kaitlyn H Hajdarovic, Kelsey R Babcock, Shiva Kazempour Dehkordi, Alexander C Jackson, Ivana Delalle, Miranda E Orr, Habil Zare, Ritambhara Singh, William Stafford Noble, [Andrei G Vlassenko](https://www.mir.wustl.edu/employees/andrei-vlassenko/), [Manu S Goyal](https://www.mir.wustl.edu/employees/manu-goyal/), and Ashley E Webb
 <br><img src="/images/HypoAD.png" alt="image" width="60%">
 
 
