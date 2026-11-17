@@ -31,7 +31,7 @@ redirect_from:
   </div>
   <div class="research-topics">
     <a href="#publications" data-research-filter="aging-brain"><h3>The aging brain</h3><p>I study the hypothalamus, a brain–body interface involved in homeostasis and energy metabolism, and its role in aging and Alzheimer’s disease using single-cell multiomics and MRI volumetric data.</p></a>
-    <a href="#publications" data-research-filter="computational-biology"><h3>Computational biology</h3><p>Interpretable machine learning models and pipelines to predict age and disease states and discover new genes.</p></a>
+    <a href="#publications" data-research-filter="computational-biology"><h3>Computational biology</h3><p>Interpretable machine learning models and pipelines to predict age and disease states and discover new potential mechanisms for aging.</p></a>
     <a href="#publications" data-research-filter="perturbations"><h3>Perturbations</h3><p>I am interested in perturbations that might recover youthful states, including in vivo epigenetic reprogramming to restore young profiles in aged tissues.</p></a>
   </div>
 
