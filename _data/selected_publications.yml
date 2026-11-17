@@ -1,0 +1,159 @@
+- id: x-linked-hypothalamus-aging
+  category: preprint
+  topic: Hypothalamus
+  research_topics: [aging-brain]
+  title: >-
+    Single-cell transcriptomic and epigenomic analysis reveals X-linked sex differences in aging mouse hypothalamus
+  authors: >-
+    <strong>Doudou Yu</strong><sup>*</sup>, Ilya Osipov<sup>*</sup>, Lexi-Amber Hassell<sup>*</sup>,
+    Neta A Shwartz,
+    Kaitlyn H Hajdarovic,
+    Harold Marin, and Ashley E Webb<sup>†</sup>
+  equal_contribution_note: "* These authors contributed equally"
+  contribution_source: "Confirmed by Doudou Yu, 2026-11-16"
+  corresponding_author_note: "† Corresponding author"
+  corresponding_source: "Confirmed by Doudou Yu, 2026-11-16"
+  venue: bioRxiv
+  year: 2026
+  paper_url: https://www.biorxiv.org/content/10.64898/2026.09.08.750001v1
+
+- id: chromatin-accessibility-clocks
+  category: preprint
+  topic: Machine Learning
+  research_topics: [computational-biology]
+  title: >-
+    Cell type-resolved chromatin accessibility clocks for brain aging
+  authors: >-
+    Patrick Yu<sup>*</sup>, <strong>Doudou Yu</strong><sup>*</sup>, Yao Xue, and William Stafford Noble<sup>†</sup>
+  equal_contribution_note: "* These authors contributed equally"
+  contribution_source: "Confirmed by Doudou Yu, 2026-11-16"
+  corresponding_author_note: "† Corresponding author"
+  corresponding_source: https://www.biorxiv.org/content/10.64898/2026.08.22.746439v1
+  venue: bioRxiv
+  year: 2026
+  paper_url: https://doi.org/10.64898/2026.08.22.746439
+  code_url: https://github.com/Noble-Lab/snATAC_aging_clocks
+
+- id: hypoad
+  category: preprint
+  topic: Hypothalamus
+  research_topics: [aging-brain]
+  title: >-
+    HypoAD: volumetric and single-cell analysis reveals changes in the human hypothalamus in aging and Alzheimer's disease
+  authors: >-
+    <strong>Doudou Yu</strong>, Jurgen Germann,
+    <a href="https://gmurtaza404.github.io/">Ghulam Murtaza</a>,
+    Kaitlyn H Hajdarovic, Kelsey R Babcock, Shiva Kazempour Dehkordi,
+    Alexander C Jackson, Ivana Delalle, Miranda E Orr, Habil Zare,
+    Ritambhara Singh, Michael J MacCoss, William Stafford Noble,
+    <a href="https://www.mir.wustl.edu/employees/andrei-vlassenko/">Andrei G Vlassenko</a>,
+    <a href="https://www.mir.wustl.edu/employees/manu-goyal/">Manu S Goyal</a><sup>†</sup>,
+    and Ashley E Webb<sup>†</sup>
+  corresponding_author_note: "† Corresponding authors"
+  corresponding_source: "Confirmed by Doudou Yu, 2026-11-16"
+  venue: bioRxiv
+  year: 2025
+  status: In press
+  status_url: https://www.buckinstitute.org/lab/webb-lab/
+  image: /images/HypoAD.png
+  image_alt: >-
+    Research graphic for HypoAD, a study of the human hypothalamus in aging and Alzheimer's disease.
+  paper_url: https://www.biorxiv.org/content/10.1101/2025.10.08.681270v1
+  code_url: https://github.com/Webb-Laboratory/HypoAD
+
+- id: cellbiage
+  category: publication
+  topic: Machine Learning
+  research_topics: [computational-biology]
+  title: >-
+    CellBiAge: Improved single-cell age classification using data binarization
+  authors: >-
+    <strong>Doudou Yu</strong>, Manlin Li<sup>*</sup>, Guanjie Linghu<sup>*</sup>, Yihuan Hu<sup>*</sup>,
+    <a href="https://khajdarovic.github.io/">Kaitlyn H Hajdarovic</a>,
+    An Wang, <a href="https://rsinghlab.org/">Ritambhara Singh</a><sup>†</sup>,
+    and Ashley E Webb<sup>†</sup>
+  equal_contribution_note: "* These authors contributed equally"
+  contribution_source: https://pmc.ncbi.nlm.nih.gov/articles/PMC10791072/
+  corresponding_author_note: "† Corresponding authors"
+  corresponding_source: https://pmc.ncbi.nlm.nih.gov/articles/PMC10791072/
+  venue: Cell Reports
+  year: 2023
+  month: December
+  image: /images/cba.jpg
+  image_alt: >-
+    Research graphic for CellBiAge, a method for single-cell age classification using data binarization.
+  paper_url: https://doi.org/10.1016/j.celrep.2023.113500
+  code_url: https://github.com/Webb-Laboratory/CellBiAge
+
+- id: aging-female-mouse-hypothalamus
+  category: publication
+  topic: Hypothalamus
+  research_topics: [aging-brain]
+  title: >-
+    Single-cell analysis of the aging female mouse hypothalamus
+  authors: >-
+    <a href="https://khajdarovic.github.io/">Kaitlyn H Hajdarovic</a><sup>*</sup>,
+    <strong>Doudou Yu</strong><sup>*</sup>, Lexi-Amber Hassell, Shane A Evans,
+    Sarah Packer, <a href="http://nerettilab.com/">Nicola Neretti</a>,
+    and Ashley E Webb<sup>†</sup>
+  equal_contribution_note: "* These authors contributed equally"
+  contribution_source: https://www.nature.com/articles/s43587-022-00246-4
+  corresponding_author_note: "† Corresponding author"
+  corresponding_source: https://www.nature.com/articles/s43587-022-00246-4.pdf
+  venue: Nature Aging
+  year: 2022
+  month: July
+  image: /images/NatA.png
+  image_alt: >-
+    Research graphic for the single-cell study of the aging female mouse hypothalamus.
+  paper_url: https://doi.org/10.1038/s43587-022-00246-4
+  code_url: https://github.com/Webb-Laboratory/Hajdarovic_And_Yu_et_al_2022
+
+- id: understanding-aging-hypothalamus
+  category: publication
+  topic: Hypothalamus
+  research_topics: [aging-brain]
+  title: >-
+    Understanding the aging hypothalamus, one cell at a time
+  authors: >-
+    Kaitlyn H. Hajdarovic, <strong>Doudou Yu</strong>, and Ashley E. Webb<sup>†</sup>
+  corresponding_author_note: "† Corresponding author"
+  corresponding_source: https://pubmed.ncbi.nlm.nih.gov/36272823/
+  venue: Trends in Neurosciences
+  year: 2022
+  month: December
+  image: /images/TNIS.jpg
+  image_alt: >-
+    Research graphic accompanying the review of the aging hypothalamus, one cell at a time.
+  paper_url: https://doi.org/10.1016/j.tins.2022.10.004
+  paper_label: Review
+
+- id: epigenetic-reprogramming-vision
+  category: publication
+  topic: Perturbations
+  research_topics: [perturbations]
+  title: >-
+    Reprogramming to recover youthful epigenetic information and restore vision
+  authors: >-
+    <a href="https://scholar.google.com/citations?user=8aDBgzEAAAAJ&hl=zh-CN">Yuancheng Lu</a>,
+    Benedikt Brommer<sup>*</sup>,
+    <a href="https://sbpdiscovery.org/our-scientists/xiao-tian-phd">Xiao Tian</a><sup>*</sup>,
+    Anitha Krishnan<sup>*</sup>, Margarita Meer<sup>*</sup>, Chen Wang, Daniel L Vera, Qiurui Zeng,
+    <strong>Doudou Yu</strong>, Michael S Bonkowski, Jae-Hyun Yang,
+    Songlin Zhou, Emma M Hoffmann, Margarete M Karg, Michael B Schultz,
+    Alice E Kane, Noah Davidsohn, Ekaterina Korobkina, Karolina Chwalek,
+    Luis A Rajman, George M Church, Konrad Hochedlinger, Vadim N Gladyshev,
+    Steve Horvath, Morgan E Levine, Meredith S Gregory-Ksander,
+    Bruce R Ksander, <a href="https://kirbyneuro.org/ZhigangHe/">Zhigang He</a>,
+    and <a href="https://sinclair.hms.harvard.edu/">David A Sinclair</a><sup>†</sup>
+  equal_contribution_note: "* These authors contributed equally"
+  contribution_source: https://pubmed.ncbi.nlm.nih.gov/33268865/
+  corresponding_author_note: "† Corresponding author"
+  corresponding_source: https://www.nature.com/articles/s41586-020-2975-4
+  venue: Nature
+  year: 2020
+  month: December
+  image: /images/N.png
+  image_alt: >-
+    Research graphic for the study of epigenetic reprogramming and restoration of vision.
+  paper_url: https://www.nature.com/articles/s41586-020-2975-4

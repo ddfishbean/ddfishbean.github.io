@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Doudou Yu"
 title_separator          : "-"
 name                     : &name "Doudou Yu"
-description              : &description "personal description"
+description              : &description "Doudou Yu is a postdoctoral fellow in the Department of Genome Sciences at the University of Washington, studying the biology of aging using multiomics data."
 url                      : https://ddfishbean.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ddfishbean/ddfishbean.github.io"
@@ -22,7 +22,7 @@ repository               : "ddfishbean/ddfishbean.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : 
+  name             : "Doudou Yu"
   pronouns         : # example: "she/her"  
   bio              : 
   location         : "Seattle, WA"
@@ -148,6 +148,37 @@ include:
   - _pages
   - files
 exclude:
+  # Keep the inherited examples in source, but do not publish them.
+  - _posts
+  - _talks
+  - _publications
+  - _teaching
+  - _portfolio
+  - _drafts
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - markdown_generator
+  - README.md
+  - CONTRIBUTING.md
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - package-lock.json
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
