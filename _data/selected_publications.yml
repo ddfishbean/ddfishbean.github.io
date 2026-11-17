@@ -42,12 +42,12 @@
     HypoAD: volumetric and single-cell analysis reveals changes in the human hypothalamus in aging and Alzheimer's disease
   authors: >-
     <strong>Doudou Yu</strong>, Jurgen Germann,
-    <a href="https://gmurtaza404.github.io/">Ghulam Murtaza</a>,
+    Ghulam Murtaza,
     Kaitlyn H Hajdarovic, Kelsey R Babcock, Shiva Kazempour Dehkordi,
     Alexander C Jackson, Ivana Delalle, Miranda E Orr, Habil Zare,
     Ritambhara Singh, Michael J MacCoss, William Stafford Noble,
-    <a href="https://www.mir.wustl.edu/employees/andrei-vlassenko/">Andrei G Vlassenko</a>,
-    <a href="https://www.mir.wustl.edu/employees/manu-goyal/">Manu S Goyal</a><sup>†</sup>,
+    Andrei G Vlassenko,
+    Manu S Goyal<sup>†</sup>,
     and Ashley E Webb<sup>†</sup>
   corresponding_author_note: "† Corresponding authors"
   corresponding_source: "Confirmed by Doudou Yu, 2026-11-16"
@@ -69,8 +69,8 @@
     CellBiAge: Improved single-cell age classification using data binarization
   authors: >-
     <strong>Doudou Yu</strong>, Manlin Li<sup>*</sup>, Guanjie Linghu<sup>*</sup>, Yihuan Hu<sup>*</sup>,
-    <a href="https://khajdarovic.github.io/">Kaitlyn H Hajdarovic</a>,
-    An Wang, <a href="https://rsinghlab.org/">Ritambhara Singh</a><sup>†</sup>,
+    Kaitlyn H Hajdarovic,
+    An Wang, Ritambhara Singh<sup>†</sup>,
     and Ashley E Webb<sup>†</sup>
   equal_contribution_note: "* These authors contributed equally"
   contribution_source: https://pmc.ncbi.nlm.nih.gov/articles/PMC10791072/
@@ -92,9 +92,9 @@
   title: >-
     Single-cell analysis of the aging female mouse hypothalamus
   authors: >-
-    <a href="https://khajdarovic.github.io/">Kaitlyn H Hajdarovic</a><sup>*</sup>,
+    Kaitlyn H Hajdarovic<sup>*</sup>,
     <strong>Doudou Yu</strong><sup>*</sup>, Lexi-Amber Hassell, Shane A Evans,
-    Sarah Packer, <a href="http://nerettilab.com/">Nicola Neretti</a>,
+    Sarah Packer, Nicola Neretti,
     and Ashley E Webb<sup>†</sup>
   equal_contribution_note: "* These authors contributed equally"
   contribution_source: https://www.nature.com/articles/s43587-022-00246-4
@@ -135,17 +135,17 @@
   title: >-
     Reprogramming to recover youthful epigenetic information and restore vision
   authors: >-
-    <a href="https://scholar.google.com/citations?user=8aDBgzEAAAAJ&hl=zh-CN">Yuancheng Lu</a>,
+    Yuancheng Lu,
     Benedikt Brommer<sup>*</sup>,
-    <a href="https://sbpdiscovery.org/our-scientists/xiao-tian-phd">Xiao Tian</a><sup>*</sup>,
+    Xiao Tian<sup>*</sup>,
     Anitha Krishnan<sup>*</sup>, Margarita Meer<sup>*</sup>, Chen Wang, Daniel L Vera, Qiurui Zeng,
     <strong>Doudou Yu</strong>, Michael S Bonkowski, Jae-Hyun Yang,
     Songlin Zhou, Emma M Hoffmann, Margarete M Karg, Michael B Schultz,
     Alice E Kane, Noah Davidsohn, Ekaterina Korobkina, Karolina Chwalek,
     Luis A Rajman, George M Church, Konrad Hochedlinger, Vadim N Gladyshev,
     Steve Horvath, Morgan E Levine, Meredith S Gregory-Ksander,
-    Bruce R Ksander, <a href="https://kirbyneuro.org/ZhigangHe/">Zhigang He</a>,
-    and <a href="https://sinclair.hms.harvard.edu/">David A Sinclair</a><sup>†</sup>
+    Bruce R Ksander, Zhigang He,
+    and David A Sinclair<sup>†</sup>
   equal_contribution_note: "* These authors contributed equally"
   contribution_source: https://pubmed.ncbi.nlm.nih.gov/33268865/
   corresponding_author_note: "† Corresponding author"
