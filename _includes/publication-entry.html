@@ -19,13 +19,6 @@
     </div>
     {% endif %}
     {% if work.status %}<p class="publication-status">{{ work.status }}{% if work.forthcoming_venue %} at <em class="journal-name">{{ work.forthcoming_venue }}</em>{% endif %}</p>{% endif %}
-    {% if work.image %}<details class="publication-details">
-      <summary>Research figure<span class="sr-only"> for {{ work.title | escape }}</span></summary>
-      <div class="publication-detail-content">
-        <img src="{{ work.image | relative_url }}" alt="{{ work.image_alt | escape }}" loading="lazy" decoding="async">
-        <a class="figure-original" href="{{ work.image | relative_url }}" target="_blank" rel="noopener">Original figure <span aria-hidden="true">↗</span></a>
-      </div>
-    </details>{% endif %}
   </div>
   {% if work.category != 'publication' %}<div class="publication-links">
     {% if work.link_paper != false %}<a href="{{ work.paper_url }}" aria-label="Read {{ work.title | escape }}">{{ work.paper_label | default: 'Paper' }} <span aria-hidden="true">↗</span></a>{% endif %}
