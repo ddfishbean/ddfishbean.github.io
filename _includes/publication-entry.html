@@ -1,8 +1,14 @@
 {% assign work = include.work %}
-<article class="publication" id="{{ work.id }}" data-research-topics="{{ work.research_topics | join: ' ' }}" data-publication-category="{{ work.category }}">
-  <div class="publication-year">{{ work.year }}</div>
+{% assign has_preview = false %}
+{% if work.category == 'publication' and work.thumbnail %}{% assign has_preview = true %}{% endif %}
+<article class="publication{% if has_preview %} publication--illustrated{% endif %}" id="{{ work.id }}" data-research-topics="{{ work.research_topics | join: ' ' }}" data-publication-category="{{ work.category }}">
+  {% if has_preview %}
+  <a class="publication-preview" href="{{ work.paper_url }}" aria-label="Read {{ work.title | escape }}">
+    <img src="{{ work.thumbnail | relative_url }}" alt="First page of {{ work.title | escape }}" width="{{ work.thumbnail_width }}" height="{{ work.thumbnail_height }}" loading="lazy" decoding="async">
+  </a>
+  {% else %}<div class="publication-year">{{ work.year }}</div>{% endif %}
   <div class="publication-main">
-    <p class="publication-meta">{{ work.topic }} <span aria-hidden="true">/</span> <em class="journal-name">{{ work.venue }}</em>{% if work.category == 'preprint' %} preprint{% endif %}</p>
+    <p class="publication-meta">{% if has_preview %}{{ work.year }} <span aria-hidden="true">/</span> {% endif %}{{ work.topic }} <span aria-hidden="true">/</span> <em class="journal-name">{{ work.venue }}</em>{% if work.category == 'preprint' %} preprint{% endif %}</p>
     <h{{ include.heading_level | default: 4 }}>{% if work.link_paper != false %}<a href="{{ work.paper_url }}">{{ work.title | escape }}</a>{% else %}{{ work.title | escape }}{% endif %}</h{{ include.heading_level | default: 4 }}>
     <p class="authors">{{ work.authors }}</p>
     {% if work.status %}<p class="publication-status">{{ work.status }}{% if work.forthcoming_venue %} at <em class="journal-name">{{ work.forthcoming_venue }}</em>{% endif %}</p>{% endif %}

@@ -1,3 +1,18 @@
+- id: sexual-reproduction-organ-aging
+  category: preprint
+  topic: Perturbations
+  research_topics: [perturbations]
+  title: Sexual reproduction impacts vertebrate organ aging
+  authors: >-
+    Jingxun Chen, Aleksandra Tsenter, Emma K Costa, <strong>Doudou Yu</strong>,
+    Xiangping Lin, Kenneth L Chen, Veronica A Bot, Madeline J Housh,
+    Léo-Paul Héraud, S V Perry, Rishad C Khondker, Michael P Snyder,
+    Ashley E Webb, Tony Wyss-Coray, and Anne Brunet
+  venue: bioRxiv
+  year: 2026
+  publication_date: 2026-10-13
+  paper_url: https://www.biorxiv.org/content/10.64898/2026.10.08.757363v1.abstract
+
 - id: x-linked-hypothalamus-aging
   category: preprint
   topic: Hypothalamus
@@ -35,13 +50,13 @@
   code_url: https://github.com/Noble-Lab/snATAC_aging_clocks
 
 - id: hypoad
-  category: preprint
+  category: publication
   topic: Hypothalamus
   research_topics: [aging-brain]
   title: >-
-    HypoAD: volumetric and single-cell analysis reveals changes in the human hypothalamus in aging and Alzheimer's disease
+    Hypothalamic volume and cell-type changes in ageing and Alzheimer’s disease
   authors: >-
-    <strong>Doudou Yu</strong>, Jurgen Germann,
+    <strong>Doudou Yu</strong>, Jürgen Germann,
     Ghulam Murtaza,
     Kaitlyn H Hajdarovic, Kelsey R Babcock, Shiva Kazempour Dehkordi,
     Alexander C Jackson, Ivana Delalle, Miranda E Orr, Habil Zare,
@@ -50,15 +65,18 @@
     Manu S Goyal<sup>†</sup>,
     and Ashley E Webb<sup>†</sup>
   corresponding_author_note: "† Corresponding authors"
-  corresponding_source: "Confirmed by Doudou Yu, 2026-11-16"
-  venue: bioRxiv
-  year: 2025
-  status: In press
-  status_url: https://www.buckinstitute.org/lab/webb-lab/
+  corresponding_source: https://www.nature.com/articles/s41586-026-11305-w.pdf
+  venue: Nature
+  year: 2026
+  publication_date: 2026-11-18
   image: /images/HypoAD.png
   image_alt: >-
     Research graphic for HypoAD, a study of the human hypothalamus in aging and Alzheimer's disease.
-  paper_url: https://www.biorxiv.org/content/10.1101/2025.10.08.681270v1
+  paper_url: https://www.nature.com/articles/s41586-026-11305-w
+  pdf_url: https://www.nature.com/articles/s41586-026-11305-w.pdf
+  thumbnail: /images/publications/hypoad.webp
+  thumbnail_width: 480
+  thumbnail_height: 670
   code_url: https://github.com/Webb-Laboratory/HypoAD
 
 - id: cellbiage
@@ -83,6 +101,9 @@
   image_alt: >-
     Research graphic for CellBiAge, a method for single-cell age classification using data binarization.
   paper_url: https://doi.org/10.1016/j.celrep.2023.113500
+  thumbnail: /images/publications/cellbiage.webp
+  thumbnail_width: 480
+  thumbnail_height: 660
   code_url: https://github.com/Webb-Laboratory/CellBiAge
 
 - id: aging-female-mouse-hypothalamus
@@ -107,6 +128,10 @@
   image_alt: >-
     Research graphic for the single-cell study of the aging female mouse hypothalamus.
   paper_url: https://doi.org/10.1038/s43587-022-00246-4
+  pdf_url: https://www.nature.com/articles/s43587-022-00246-4.pdf
+  thumbnail: /images/publications/aging-female-mouse-hypothalamus.webp
+  thumbnail_width: 480
+  thumbnail_height: 690
   code_url: https://github.com/Webb-Laboratory/Hajdarovic_And_Yu_et_al_2022
 
 - id: understanding-aging-hypothalamus
@@ -126,6 +151,9 @@
   image_alt: >-
     Research graphic accompanying the review of the aging hypothalamus, one cell at a time.
   paper_url: https://doi.org/10.1016/j.tins.2022.10.004
+  thumbnail: /images/publications/understanding-aging-hypothalamus.webp
+  thumbnail_width: 480
+  thumbnail_height: 630
   paper_label: Review
 
 - id: epigenetic-reprogramming-vision
@@ -157,3 +185,7 @@
   image_alt: >-
     Research graphic for the study of epigenetic reprogramming and restoration of vision.
   paper_url: https://www.nature.com/articles/s41586-020-2975-4
+  pdf_url: https://www.nature.com/articles/s41586-020-2975-4.pdf
+  thumbnail: /images/publications/epigenetic-reprogramming-vision.webp
+  thumbnail_width: 480
+  thumbnail_height: 642
