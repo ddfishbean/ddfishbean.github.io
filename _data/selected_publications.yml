@@ -73,6 +73,7 @@
   image_alt: >-
     Research graphic for HypoAD, a study of the human hypothalamus in aging and Alzheimer's disease.
   paper_url: https://www.nature.com/articles/s41586-026-11305-w
+  pmid: '43052445'
   pdf_url: https://www.nature.com/articles/s41586-026-11305-w.pdf
   thumbnail: /images/publications/hypoad.webp
   thumbnail_width: 480
@@ -101,6 +102,8 @@
   image_alt: >-
     Research graphic for CellBiAge, a method for single-cell age classification using data binarization.
   paper_url: https://doi.org/10.1016/j.celrep.2023.113500
+  pmid: '38032797'
+  pdf_url: /files/publications/cellbiage.pdf
   thumbnail: /images/publications/cellbiage.webp
   thumbnail_width: 480
   thumbnail_height: 660
@@ -128,6 +131,7 @@
   image_alt: >-
     Research graphic for the single-cell study of the aging female mouse hypothalamus.
   paper_url: https://doi.org/10.1038/s43587-022-00246-4
+  pmid: '36285248'
   pdf_url: https://www.nature.com/articles/s43587-022-00246-4.pdf
   thumbnail: /images/publications/aging-female-mouse-hypothalamus.webp
   thumbnail_width: 480
@@ -151,6 +155,8 @@
   image_alt: >-
     Research graphic accompanying the review of the aging hypothalamus, one cell at a time.
   paper_url: https://doi.org/10.1016/j.tins.2022.10.004
+  pmid: '36272823'
+  pdf_url: /files/publications/understanding-aging-hypothalamus.pdf
   thumbnail: /images/publications/understanding-aging-hypothalamus.webp
   thumbnail_width: 480
   thumbnail_height: 630
@@ -185,6 +191,7 @@
   image_alt: >-
     Research graphic for the study of epigenetic reprogramming and restoration of vision.
   paper_url: https://www.nature.com/articles/s41586-020-2975-4
+  pmid: '33268865'
   pdf_url: https://www.nature.com/articles/s41586-020-2975-4.pdf
   thumbnail: /images/publications/epigenetic-reprogramming-vision.webp
   thumbnail_width: 480
